@@ -1,25 +1,29 @@
-# Passports (passports)
-Passports provides API capabilities.
+# Passports
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/passports/refs/heads/main/apis.yml)
+Index for tracking APIs, SDKs, and developer resources related to passports (travel documents, identity verification, and government issuance).
+
+**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/passports/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
 
-## Tags:
+## APIs
 
- - API
+No authoritative public passport API has been identified at this time. This repository will be updated as relevant government, travel-document, or identity-verification APIs are surfaced.
 
-## Timestamps
+## Tags
 
-- **Created:** 2026-03-16 
-- **Modified:** 2026-03-16 
+- Passports
+- Travel Documents
+- Identity
+- Government
+
+## Properties
+
+- [U.S. Department of State - Passports](https://travel.state.gov/content/travel/en/passports.html)
 
 ## Maintainers
 
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
